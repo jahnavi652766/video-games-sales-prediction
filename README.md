@@ -178,19 +178,8 @@ The project documentation also suggests these directions for future development.
 
 [Kaggle - Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
-### Scikit-Learn Documentation
 
-[Scikit-Learn Documentation](https://scikit-learn.org/stable/)
 
-## 👥 Team Members
-
-* **K. Varun**
-* **K. Jaya Prakash**
-* **K. Jahnavi**
-* **M. Poshanya Guptha**
-* **K. Yasaswini**
-
-## 🏫 Institution
 
 **Prasad V Potluri Siddhartha Institute of Technology**
 
