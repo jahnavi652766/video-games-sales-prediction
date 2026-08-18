@@ -176,7 +176,8 @@ The project documentation also suggests these directions for future development.
 
 ### Dataset
 
-[Kaggle - Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales)
+[Kaggle - Video Game Sales Dataset]
+(https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 
 
